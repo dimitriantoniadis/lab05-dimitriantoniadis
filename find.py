@@ -7,7 +7,6 @@
 
 import argparse
 
-
 def main():
     parser = argparse.ArgumentParser(
         description="Print the lines of a file that contain a given pattern.")
